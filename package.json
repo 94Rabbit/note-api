@@ -1,9 +1,6 @@
 {
-  "version": 2,
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/api/$1.js"
-    }
-  ]
+  "name": "note-backend",
+  "version": "1.0.0",
+  "dependencies": {
+  }
 }
